@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE / Editor configs
+.vscode/
+.idea/
+
+# Temporary dumps and debug captures
+*.png
+*.xml
+*.jpg
+tmp/
+
+# AI Guardian execution reports & snapshots
+reports/
